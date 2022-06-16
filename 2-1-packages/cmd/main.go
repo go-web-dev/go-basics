@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	_ "files"
+	"fmt"
+)
 
 func main() {
 	fmt.Println("main")
